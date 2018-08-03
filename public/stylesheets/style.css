@@ -1,0 +1,52 @@
+body { 
+    background: linear-gradient(to bottom, #D8EFFE,white);
+}
+h1 {
+  /*My Cloud 9*/
+  text-align: center;
+  font-family: helvetica; 
+  font-size: 50px;
+
+}
+
+h2 {
+    /*Are You Valid Quiz*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+
+h3 {
+    /*Me Time*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+h4 {
+   /*Peace of Mind*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+h5 {
+    /*Physical Health*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+h6 {
+   /*About Us*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+h7 {
+    /*Contact Us*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+h8 {
+    /*Youtube Videos*/
+    font-family: helvetica;
+    font-size: 15px;
+}
+h9 {
+    /*Featured Videos*/
+    font-family: helvetica;
+    font-size: 15px;
+}
